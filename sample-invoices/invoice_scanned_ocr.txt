@@ -1,0 +1,27 @@
+--- [OCR SCAN ENGINE OUTPUT - TESSERACT 5.3.0 - CONFIDENCE 88%] ---
+S0CIETE NORD AFRICAINE D'INGENIERIE ET TRAVAUX - SNAlT SA
+Km 14, Route de Nouaceur, Zone Industrielle
+Casab1anca - MAROC
+1CE : 001928374650011 | PATENTE: 37482910 | IF: 01928374
+
+D0CUMENT: FACTURE COMMERCIALE
+NUMERO : FACT-2026-902
+DATE : 2026-07-22
+ECHEANCE : 2026-08-22
+STATUT: EN RETARD / OVERDUE
+
+DESTINATAIRE:
+COMPTOIR METALLURGIQUE DU SUD
+Quartier Industriel, Agadir
+ICE : 003344556677889
+
+DESIGNATION                                      QTE     P.U. (MAD)   TVA%    MONTANT HT
+Etudes géotechniques et sondages de sol           1      18 500.00    20%     18 500.00
+Rapport de dimensionnement structure béton armé   1       7 500.00    20%      7 500.00
+
+TOTAL HORS TAXE:             26 000.00 MAD
+TVA (20%):                    5 200.00 MAD
+TOTAL TOUTES TAXES COMPRISES:31 200.00 MAD
+
+En cas de retard de paiement, pénalité légale applicable.
+--- [END OCR OUTPUT] ---

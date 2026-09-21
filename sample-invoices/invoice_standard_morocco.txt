@@ -1,0 +1,32 @@
+INVOICE / FACTURE
+
+ABC TECHNOLOGIES SARL
+142 Boulevard d'Anfa, 4ème étage
+Casablanca 20050, Maroc
+IF: 45892011 | ICE: 001234567890012 | RC: 34567 Casablanca
+Email: billing@abctech.ma | Tél: +212 5 22 45 67 89
+
+FACTURÉ À / CLIENT:
+XYZ SOLUTIONS SARL
+78 Avenue des FAR
+Casablanca 20000, Maroc
+ICE: 009876543210098 | IF: 33458912
+
+FACTURE N°: FAC-2026-00125
+DATE D'ÉMISSION: 2026-09-18
+DATE D'ÉCHÉANCE: 2026-10-18
+STATUT: IMPAYÉ
+MODE DE PAIEMENT: Virement bancaire
+
+------------------------------------------------------------------------------------------------
+DESCRIPTION                                    QTÉ    PRIX UNIT.    TVA      TOTAL HT
+------------------------------------------------------------------------------------------------
+Prestation développement logiciel cloud ERP      1     10 000.00    20%     10 000.00
+------------------------------------------------------------------------------------------------
+
+SOUS-TOTAL HT:                       10 000.00 MAD
+TVA (20%):                            2 000.00 MAD
+TOTAL TTC:                           12 000.00 MAD
+
+Arrêtée la présente facture à la somme de douze mille Dirhams TTC.
+RIB Attijariwafa Bank: 007 780 0001234567890123 45

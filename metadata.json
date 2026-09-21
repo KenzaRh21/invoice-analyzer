@@ -1,0 +1,6 @@
+{
+  "name": "AI Invoice Analyzer",
+  "description": "Enterprise AI-powered invoice processing platform with OCR, LLM structured extraction, human-in-the-loop validation, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

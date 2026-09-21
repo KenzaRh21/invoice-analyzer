@@ -1,0 +1,34 @@
+FACTURE MULTI-LIGNES
+
+ATLAS CLOUD & IT SERVICES SA
+Zone Franche Technopolis, Bâtiment B3
+Rabat-Salé 11100, Maroc
+ICE: 002341567891234 | RC: 98765 Rabat | IF: 21984712
+Contact: accounts@atlascloud.ma
+
+CLIENT:
+MAROC DIGIT ENTERPRISE SARL
+Angle Bd Zerktouni et Rue d'Agadir
+Casablanca, Maroc
+ICE: 008765432198765
+
+FACTURE N°: INV-2026-0482
+DATE: 2026-09-05
+ÉCHÉANCE: 2026-10-05
+DEVISE: MAD
+
+-----------------------------------------------------------------------------------------------------
+DESCRIPTION                                         QTÉ     PRIX UNIT.     TVA (%)    TOTAL HT
+-----------------------------------------------------------------------------------------------------
+Abonnement Cloud Infrastructure Dédiée (Mois Sept)    2       4,500.00       20%       9,000.00
+Audit de cybersécurité & Pentest applicatif          1      15,000.00       20%      15,000.00
+Configuration Firewall Fortinet & VPN IPSec           3       1,200.00       20%       3,600.00
+Support technique 24/7 & Monitoring SLA               1       2,400.00       20%       2,400.00
+-----------------------------------------------------------------------------------------------------
+
+TOTAL BRUT HT:                               30,000.00 MAD
+TVA COLLECTÉE (20%):                          6,000.00 MAD
+NET À PAYER TTC:                             36,000.00 MAD
+
+Conditions de règlement: Règlement sous 30 jours nets.
+Statut actuel: PAYÉ le 2026-09-10 par virement réf VRT-99482.
